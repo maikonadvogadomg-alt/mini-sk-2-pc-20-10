@@ -1,0 +1,17 @@
+{
+  "titulo": "Mini-SK-2-PC-20-10",
+  "arquivo": "index.html",
+  "itens": [
+    {
+      "path": "app/index.html",
+      "nome": "Mini SK 2",
+      "desc": "",
+      "on": true,
+      "icone": "app/icons/icon-192.png"
+    }
+  ],
+  "sub": "",
+  "logo": "",
+  "tema": "escuro",
+  "links": []
+}
